@@ -33,7 +33,7 @@
                 </td>
             </tr>
             <tr>
-                <th>no</th>
+                <th>num</th>
                 <th>name</th>
                 <th>details</th>
                 <th colspan="2">Action</th>
